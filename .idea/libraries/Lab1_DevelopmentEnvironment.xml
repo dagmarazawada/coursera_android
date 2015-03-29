@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Lab1_DevelopmentEnvironment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DevelopmentEnvironment/Lab1_DevelopmentEnvironment/WikiNotes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DevelopmentEnvironment/Lab1_DevelopmentEnvironment/DeskClock.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DevelopmentEnvironment/Lab1_DevelopmentEnvironment/TheAnswer.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DevelopmentEnvironment/Lab1_DevelopmentEnvironment/SimpleCalc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
